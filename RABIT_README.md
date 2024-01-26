@@ -18,4 +18,4 @@ python retarget_SMPL_to_RaBit.py vibe_output_2.pkl
 ```
 This will create the renderings by retargeting the motion of SMPL to the RaBit model. The generated assets will be stored in the `assets/` directory.   
 
-![rendering-demo-viz](https://github.com/kulendu/SMPL2RaBit-Blender/tree/main/images/polyscoope_vis.png)
+![rendering-demo-viz](https://github.com/kulendu/SMPL2RaBit-Blender/blob/main/images/polyscope_vis.png)
